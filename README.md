@@ -1,4 +1,4 @@
-#Volume Controller
+# Volume Controller
 
 This application is a remaster of the previous application i made, where previously i utilized 3rd party software to control
 multimedia audio, i now utilize Windows API Calls to manipulate audio from devices
@@ -12,3 +12,4 @@ multimedia audio, i now utilize Windows API Calls to manipulate audio from devic
 - Add changeable keybinds
 - Add changeable audio source/application
 - Add more GUI
+- Performance Optimization
